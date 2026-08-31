@@ -1,3 +1,10 @@
+// Autor: Felipe Oliveira
+
+
+// Aplicação responsável por iniciar a API desenvolvida com Spring Boot.
+
+
+
 package swagger;
 
 import org.springframework.boot.SpringApplication;
