@@ -1,4 +1,4 @@
-// Autor: Felipe Oliveira
+// Autor: Felipe Batista de Oliveira
 
 
 // Aplicação responsável por iniciar a API desenvolvida com Spring Boot.
